@@ -1,0 +1,11 @@
+*.pytest_cache/
+*.jython_cache/
+*.pyc
+*$py.class
+.idea
+__pycache__/
+*.egg-info/
+htmlcov/
+*.coverage
+tests/pipe_client_coverage
+tests/pipe_server_coverage
